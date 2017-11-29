@@ -1,0 +1,5 @@
+--shtelpaas.app.name=firststrick    
+--shtelpaas.app.basepkg=demo  
+--shtelpaas.app.config.profile=app$dev$1.0,base$dev$1.0  
+--shtelpaas.log.profile=log$dev$1.0             
+--shtelpaas.app.nameserver=http://180.101.146.184:8761/eureka/
